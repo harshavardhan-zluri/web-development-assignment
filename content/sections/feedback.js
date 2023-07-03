@@ -15,7 +15,7 @@ const Feedback = () => {
 
             <FeedbackDiv>
                 <p>
-                    Put your reply here
+                    Put your reply here:
                 </p>
             </FeedbackDiv>
             
