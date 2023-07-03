@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://gatsby-starter-portfolio-minimal-theme.netlify.app/web-development-assignment/sitemap-index.xml
+Host: https://gatsby-starter-portfolio-minimal-theme.netlify.app
